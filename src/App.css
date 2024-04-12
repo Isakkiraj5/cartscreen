@@ -1,0 +1,12 @@
+.title{
+  font-size: large;
+  font-weight: bold;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+p{
+  margin-bottom: 5px !important;
+}
